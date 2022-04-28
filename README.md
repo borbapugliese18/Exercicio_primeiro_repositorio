@@ -11,7 +11,7 @@ Exercícios de algoritmo trabalhando com sequência crescente
 
 
 
-#### Metodologia:
+#### Observações:
 
 - Três versões de algoritmos trabalhando com sequência númerica de números inteiros, utilizando vetores.
 
