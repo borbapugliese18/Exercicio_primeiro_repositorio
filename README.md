@@ -1,5 +1,5 @@
-# Desafio de projeto sobre Git/GitHub da DIO   :pencil:
-Respositório criado para o Desafio de Projeto
+# Exercício sobre Git/GitHub da DIO   :pencil:
+Respositório criado para o exercício
 
 
 
